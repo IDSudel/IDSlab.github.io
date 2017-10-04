@@ -1,1 +1,2 @@
-this file has stepts to get started with python
+this file has stepts to get started with C++
+changed from python to c++
